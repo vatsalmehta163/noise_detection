@@ -54,19 +54,3 @@ This project is licensed under the **MIT License**.
 - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
 - **GitHub**: [Your GitHub](https://github.com/your-username)
 
-```
-
----
-
-### **How to Add It to GitHub**
-1. **Create a `README.md` file** in your project directory:
-   ```bash
-   touch README.md
-   ```
-2. **Open it in an editor** (VS Code, Notepad++, etc.) and paste the content above.
-3. **Commit and push** the file to your repository:
-   ```bash
-   git add README.md
-   git commit -m "Added README"
-   git push origin main
-   ```
