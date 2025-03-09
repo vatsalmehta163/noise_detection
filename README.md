@@ -51,6 +51,6 @@ This project is licensed under the **MIT License**.
 ---
 
 ### 🔗 Connect with Me
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- **GitHub**: [Your GitHub](https://github.com/your-username)
+- **LinkedIn**: [Your LinkedIn](www.linkedin.com/in/vatsal163)
+- **GitHub**: [Your GitHub](https://github.com/vatsalmehta163)
 
